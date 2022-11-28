@@ -1,0 +1,39 @@
+html {
+    background-image: url(/IMG_0768.JPG);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main > h1 {
+    color: white;
+    font-size: 70px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 350px;
+    font-family: sans-serif;
+}
+
+.countdown {
+    display: flex;
+    justify-content: center;
+}
+
+.time {
+    margin-right: 100px;
+    color: white;
+}
+
+.time > h2 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.time > p {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
